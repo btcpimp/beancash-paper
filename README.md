@@ -1,2 +1,2 @@
-# bitbean-digital-cash
-BitBean Digital Cash (Generates Paper Key Pairs for BitBean)
+# Bean Cash (formerly Bitbean-Digital-Cash)
+Open Source Javascript site that generates Paper Key Pairs for Bean Cash.
